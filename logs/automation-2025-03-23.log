@@ -1,0 +1,74 @@
+23:02:45.394 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+23:02:45.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+23:02:49.239 [main] INFO  testCases.TC004_SearchProductTest - ***** Starting TC004_SearchProductTest ******
+23:06:22.786 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+23:06:22.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+23:06:26.592 [main] INFO  testCases.TC004_SearchProductTest - ***** Starting TC004_SearchProductTest ******
+23:06:27.189 [main] INFO  testCases.TC004_SearchProductTest - ***** Finished TC004_SearchProductTest ******
+11:34:59.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:34:59.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:35:21.261 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:35:21.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:36:40.565 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:36:40.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:36:45.680 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+11:42:54.881 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:42:55.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:42:58.177 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+11:45:38.745 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:45:38.899 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:45:41.798 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+11:51:54.941 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:51:55.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:52:00.558 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+11:54:34.843 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:54:35.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:54:38.262 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+11:54:39.457 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Finished TC005_AddTocartPageTest ******
+11:58:59.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+11:58:59.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+11:59:02.369 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+12:00:58.142 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+12:00:58.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+12:01:04.205 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+12:02:15.733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+12:02:15.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+12:02:18.688 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+12:02:19.713 [main] ERROR testCases.TC005_AddToCartPageTest - Test Failed
+12:03:53.145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+12:03:53.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+12:03:56.342 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+12:03:57.416 [main] ERROR testCases.TC005_AddToCartPageTest - Test Failed
+12:04:29.601 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
+12:04:29.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java-automation\OpencartV121\master.xml
+
+12:04:32.400 [main] INFO  testCases.TC005_AddToCartPageTest - ***** Starting TC005_AddTocartPageTest ******
+12:04:33.297 [main] ERROR testCases.TC005_AddToCartPageTest - Test Failed
+12:07:35.241 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\java-automation\OpencartV121\master.xml"
